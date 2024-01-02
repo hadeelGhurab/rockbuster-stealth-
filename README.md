@@ -37,4 +37,4 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
  
 ## **Summary**
 
-<kbd>![Summary](![image](https://github.com/dsad8000/rockbuster_stealth/assets/98616377/ee817278-a9a6-4616-bb5a-b8e54bca9ab1)<kbd>
+<kbd>![Summary](![image](https://github.com/hadeelGhurab/rockbuster-stealth-/blob/main/tableau-report/summary.PNG1)<kbd>
