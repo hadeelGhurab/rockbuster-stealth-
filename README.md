@@ -24,7 +24,7 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
 
 1. Strategically choose markets to roll out the streaming service. Targeting these 10 countries for initial sales and marketing campaigns captures high individual and total revenue potential.
  
-<kbd>![Recommendations_1](https://github.com/dsad8000/rockbuster_stealth/assets/98616377/902ef4f2-8e2c-4e16-9fac-6ff2f771698e)<kbd>
+<kbd>![Recommendations_1](https://public.tableau.com/authoring/visualizationoftask7_1/Sheet1#1)<kbd>
  
 2. Marketing and sales campaigns target geographic location content preferences based on popular film categories.
  
