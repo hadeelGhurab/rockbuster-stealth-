@@ -26,15 +26,15 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
  
 <kbd>![Recommendations_1](https://github.com/hadeelGhurab/rockbuster-stealth-/blob/main/tableau-report/Customer-distribution-map.png)<kbd>
  
-2. Marketing and sales campaigns target geographic location content preferences based on popular film categories.
+2. Marketing and sales campaigns target geographic location content preferences based on customer count globally .
  
-<kbd>![Recommendations_2](https://github.com/dsad8000/rockbuster_stealth/assets/98616377/510c0b1c-19ce-48a3-973a-a6b5a6797260)<kbd>
+<kbd>![Recommendations_2](https://github.com/hadeelGhurab/rockbuster-stealth-/blob/main/tableau-report/Top-ten-countries-per-customer-count.png)<kbd>
  
-3. Introduce initial service plan incentives for high lifetime value customers. Customers in the top quarter of revenue are 19% or more of customers in our top 10 revenue countries. A loyalty plan to reward these customers with incentives for the initial service plan will provide data to analyze rental trends for targeted local marketing campaigns.
+3. From the top ten countries Rockbuster plan to Ward the to five customer top customers base on the total amount paid as a way of boosting sales and building customer loyalty.
  
-<kbd>![Recommendations_3](https://github.com/dsad8000/rockbuster_stealth/assets/98616377/1bb9f51f-4007-49de-aa58-0652d62cbc0d)<kbd>
+<kbd>![Recommendations_3](https://github.com/hadeelGhurab/rockbuster-stealth-/blob/main/tableau-report/Top-five-customers.png)<kbd>
 
  
 ## **Summary**
 
-<kbd>![Summary](![image](https://github.com/hadeelGhurab/rockbuster-stealth-/blob/main/tableau-report/summary.PNG1)<kbd>
+<kbd>![Summary](![image]()<kbd>
