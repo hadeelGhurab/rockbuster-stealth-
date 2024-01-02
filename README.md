@@ -16,7 +16,7 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
 #### Data is included for film rentals in 2006, so timeliness is an issue. Data collection after initial implementation of strategic business plan, particularly among the high lifetime value customers as outlined below, will provide guidelines for pivoting in targeted marketing campaigns. Data integrity was checked using SQL queries to identify non-uniform, duplicate, and missing values.
  
 ## **Analysis and Results**
-### [Sample SQL Queries used](https://github.com/dsad8000/rockbuster_stealth/tree/main/sql_queries)
+### [Sample SQL Queries used](https://github.com/hadeelGhurab/rockbuster-stealth-/tree/main/queries)
 
 ## **Recommendations**
 
@@ -24,7 +24,7 @@ Data was filtered, summarized, and cleaned in PostgreSQL. SQL queries included j
 
 1. Strategically choose markets to roll out the streaming service. Targeting these 10 countries for initial sales and marketing campaigns captures high individual and total revenue potential.
  
-<kbd>![Recommendations_1](https://public.tableau.com/authoring/visualizationoftask7_1/Sheet1#1)<kbd>
+<kbd>![Recommendations_1](https://github.com/hadeelGhurab/rockbuster-stealth-/blob/main/tableau-report/Customer-distribution-map.png)<kbd>
  
 2. Marketing and sales campaigns target geographic location content preferences based on popular film categories.
  
